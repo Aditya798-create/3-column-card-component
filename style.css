@@ -1,0 +1,141 @@
+/* first card */
+.first-card {
+    background-color: hsl(31, 77%, 52%);
+    font-family: 'Big Shoulders Display', cursive;
+    padding: 1rem;
+    margin: 6rem;
+    margin-left: 200px;
+    margin-right: 700px;
+    border-radius: 5px;
+}
+
+.first-card img {
+    margin-left: 15%;
+    margin-top: 30px;
+}
+
+.first-card h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    color: hsl(0, 0%, 95%);
+    text-transform: uppercase;
+    margin-left: 15%;
+    margin-top: 20px;
+}
+
+.first-card p {
+    color:hsla(0, 0%, 100%, 0.75);
+    font-size: 12px;
+    font-family: 'Lexend Deca', sans-serif;
+    margin-left: 15%;
+    line-height: 1.5;
+    margin-top: 20px;
+    margin-bottom: 110px;   
+}
+
+.first-card a {
+    text-decoration: none;
+    color: hsl(31, 77%, 52%);
+    background-color: hsl(0, 0%, 95%);
+    font-family: 'Lexend Deca', sans-serif;
+    padding: 10px 20px;
+    border-radius: 50px;
+    position: relative;
+    top: -30px;
+    margin-left: 15%;
+}
+
+/* Second card */
+
+.second-card {
+    background-color: hsl(184, 100%, 22%);
+    font-family: 'Big Shoulders Display', cursive;
+    padding: 1rem;
+    margin: 6rem;
+    margin-left: 500px;
+    margin-right: 570px;
+    margin-top: -500px;
+    border-radius: 5px;
+}
+
+.second-card img {
+    margin-left: 15%;
+    margin-top: 30px;
+}
+
+.second-card h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    color: hsl(0, 0%, 95%);
+    text-transform: uppercase;
+    margin-left: 15%;
+    margin-top: 20px;
+}
+
+.second-card p {
+    color:hsla(0, 0%, 100%, 0.75);
+    font-size: 12px;
+    font-family: 'Lexend Deca', sans-serif;
+    margin-left: 15%;
+    line-height: 1.5;
+    margin-top: 20px;
+    margin-bottom: 110px;   
+}
+
+.second-card a {
+    text-decoration: none;
+    color: hsl(184, 100%, 22%);
+    background-color: hsl(0, 0%, 95%);
+    font-family: 'Lexend Deca', sans-serif;
+    padding: 10px 20px;
+    border-radius: 50px;
+    position: relative;
+    top: -30px;
+    margin-left: 15%;
+}
+
+/* third card */
+
+.third-card {
+    background-color: hsl(179, 100%, 13%);
+    font-family: 'Big Shoulders Display', cursive;
+    padding: 1rem;
+    margin: 6rem;
+    margin-left: 800px;
+    margin-right: 300px;
+    margin-top: -500px;
+    border-radius: 5px;
+}
+
+.third-card img {
+    margin-left: 15%;
+    margin-top: 30px;
+}
+
+.third-card h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    color: hsl(0, 0%, 95%);
+    text-transform: uppercase;
+    margin-left: 15%;
+    margin-top: 20px;
+}
+
+.third-card p {
+    color:hsla(0, 0%, 100%, 0.75);
+    font-size: 12px;
+    font-family: 'Lexend Deca', sans-serif;
+    margin-left: 15%;
+    line-height: 1.5;
+    margin-top: 20px;
+    margin-bottom: 110px;   
+}
+
+.third-card a {
+    text-decoration: none;
+    color: hsl(179, 100%, 13%);
+    background-color: hsl(0, 0%, 95%);
+    font-family: 'Lexend Deca', sans-serif;
+    padding: 10px 20px;
+    border-radius: 50px;
+    position: relative;
+    top: -30px;
+    margin-left: 15%;
+}
